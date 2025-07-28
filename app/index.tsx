@@ -47,7 +47,7 @@ export default function Index() {
         <Text style={styles.fontC}>Price:4.99</Text>
       </View>
       <View style={styles.imageRow}>
-        <Text style={{ color: "red" }}>Limttid edittion!!!</Text>
+        <Text style={{ color: "red" }}>Limited edition!!!</Text>
       </View>
     </View>
   );
