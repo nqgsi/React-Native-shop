@@ -1,6 +1,7 @@
 import ProductItem from "@/components/ProductItem";
 import { prod } from "@/data/product";
 import { Image, ScrollView, StyleSheet, Text, View } from "react-native";
+
 export default function Index() {
   return (
     <ScrollView>
